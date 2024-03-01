@@ -13,8 +13,8 @@ lmoriond/lmoriond is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ---------------------------------------
-*   🌍  I'm based in Madrid
-*   ✉️  You can contact me at [lucas.moriondo@outlook.com](mailto:lucas.moriondo@outlook.com)
+*   🌍  I'm based in this world
+*   ✉️  You can contact me at [my email](mailto:contact.r6t3p@simplelogin.co)
 ---------------------------------------
 
 ### Skills<p align="left">
